@@ -1,0 +1,17 @@
+#body {
+  background-color: #e50c36;
+  color: #0ACEA8;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button {
+  font-family: sans-serif;
+  height: 2em;
+}
+
+#text-input {
+  height: 1.5em;
+  width: 20em;
+  text-align: center;
+}
